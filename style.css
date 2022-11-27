@@ -18,6 +18,8 @@ body {
 
 h3 {
   color: rgb(80, 79, 79);
+  margin: 10px 0 20px;
+  text-align: center;
 }
 
 textarea {
